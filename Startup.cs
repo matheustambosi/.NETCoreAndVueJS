@@ -22,7 +22,7 @@ namespace MVCBaseProject
             services.AddControllers();
             services.AddSpaStaticFiles(configuration =>
             {
-                configuration.RootPath = "ClientApp";
+                configuration.RootPath = "View";
             });
         }
 
@@ -50,7 +50,7 @@ namespace MVCBaseProject
             app.UseSpa(spa =>
             {
                 if (env.IsDevelopment())
-                    spa.Options.SourcePath = "ClientApp";
+                    spa.Options.SourcePath = "View";
                 else
                     spa.Options.SourcePath = "dist";
 

@@ -18,8 +18,6 @@ C:\Users\mathe\Desktop\.NETCoreAndVueJS\obj\Debug\netcoreapp3.1\MVCBaseProject.R
 C:\Users\mathe\Desktop\.NETCoreAndVueJS\obj\Debug\netcoreapp3.1\MVCBaseProject.dll
 C:\Users\mathe\Desktop\.NETCoreAndVueJS\obj\Debug\netcoreapp3.1\MVCBaseProject.pdb
 C:\Users\mathe\Desktop\.NETCoreAndVueJS\obj\Debug\netcoreapp3.1\MVCBaseProject.genruntimeconfig.cache
-C:\Users\mathe\Desktop\.NETCoreAndVueJS\bin\Debug\netcoreapp3.1\clientapp\package-lock.json
-C:\Users\mathe\Desktop\.NETCoreAndVueJS\bin\Debug\netcoreapp3.1\clientapp\package.json
 C:\Users\mathe\Desktop\.NETCoreAndVueJS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
 C:\Users\mathe\Desktop\.NETCoreAndVueJS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
 C:\Users\mathe\Desktop\.NETCoreAndVueJS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
@@ -27,3 +25,5 @@ C:\Users\mathe\Desktop\.NETCoreAndVueJS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.
 C:\Users\mathe\Desktop\.NETCoreAndVueJS\bin\Debug\netcoreapp3.1\VueCliMiddleware.dll
 C:\Users\mathe\Desktop\.NETCoreAndVueJS\obj\Debug\netcoreapp3.1\MVCBaseProject.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\mathe\Desktop\.NETCoreAndVueJS\obj\Debug\netcoreapp3.1\MVCBaseProject.csproj.CopyComplete
+C:\Users\mathe\Desktop\.NETCoreAndVueJS\bin\Debug\netcoreapp3.1\View\package-lock.json
+C:\Users\mathe\Desktop\.NETCoreAndVueJS\bin\Debug\netcoreapp3.1\View\package.json
